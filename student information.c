@@ -1,4 +1,4 @@
-// addition of two numbers
+// student information 
 #include<stdio.h>
 void main()
 {
